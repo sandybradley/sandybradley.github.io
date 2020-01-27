@@ -44,11 +44,13 @@ Steps to get started:
 <code>
 lastweights = {     "BAT":0.1,         "XLM":0.1,     "BNB":0.1,      "BTC": 0.4,       "USDT": 0.3 }
 </code>
+
 Install dependencies:
 
 <code>
 pip install python-binance
 </code>
+
 Run the script (it will automatically re-balance for you every hour):
 
 <code>
