@@ -11,7 +11,7 @@ Diverse investments mitigate risk of loss and can offer significant return impro
 
 Informed human intuition outperforms risk models by an order of magnitude. Here is an excerpt of our performance stress test results of varying portfolio strategies from the same basket of crypto's over the last 2 years, re-balancing hourly.
 
-![Portfolio backtests](newplot.png)
+![Portfolio backtests](/assets/newplot.png)
 
 Y axis is % Return On Investment
 
@@ -21,13 +21,13 @@ X axis is number of hours since the start (2 years ago)
 
 Higher market cap coins offer more safety. After that, it becomes a personal choice based on foreseen security, value, utility, fees, speed. Once you have picked your top 10, say, you can see their correlations. 
 
-![Correlations](correlation.png)
+![Correlations](/assets/correlation.png)
 
 Highlighted in blue are the low correlations we are looking for. Note that in this case all correlations are positive. Since they are all in the currency class this is not unexpected but highlights the importance of investing also across asset classes.
 
 From the above example, we can choose a simple portfolio:
 
-![Correlations](meta-chart.png)
+![Correlations](/assets/meta-chart.png)
 
 # How to setup my ETF ?
 
