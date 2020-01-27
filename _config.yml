@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 12
   exclude:
-    archived: false
+    archived: true
     forks: true
     projects:
      - sandybradley.github.io
