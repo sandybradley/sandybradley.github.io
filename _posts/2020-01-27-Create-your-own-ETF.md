@@ -41,19 +41,19 @@ Steps to get started:
 6. Edit API keys in binance_balancer.py
 7. Edit your configuration:
 
-```python
+<code>
 lastweights = {     "BAT":0.1,         "XLM":0.1,     "BNB":0.1,      "BTC": 0.4,       "USDT": 0.3 }
-```
+</code>
 Install dependencies:
 
-```
+<code>
 pip install python-binance
-```
+</code>
 Run the script (it will automatically re-balance for you every hour):
 
-```
+<code>
 python binance-balancer.py
-```
+</code>
 
 # Final thoughts 
 
